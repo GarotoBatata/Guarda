@@ -653,7 +653,7 @@
 					"type": "entries",
 					"name": "Imaterial",
 					"entries": [
-						"Você é resistente a dano de force. Além disso, você é imune a efeitos de envelhecimento sobrenatural, magias que mudariam sua forma física, você não precisa comer, beber ou respirar, além de não possuir carne para nenhum efeito mecânico."
+						"Você é resistente a dano de force. Além disso, você é imune a efeitos de envelhecimento sobrenatural, efeitos mágicos que mudariam sua forma física, você não precisa comer, beber ou respirar, além de não possuir carne para nenhum efeito mecânico."
 					]
 				},
 				{
@@ -1496,7 +1496,7 @@
 					"type": "entries",
 					"name": "Dependência de Água",
 					"entries": [
-						"Você recebe um terceiro braço espectral adicional esse braço pode ser usado para segurar e usar armas com a propriedade leve manipular objetos abrir ou fechar portas ou um objeto tiny."
+						"Se você não conseguir mergulhar na água por pelo menos 1 hora durante um dia, você sofre um nível de exaustão no final daquele dia. Você só pode se recuperar dessa exaustão por meio de magia ou mergulhando na água por pelo menos 1 hora."
 					]
 				},
 				{
